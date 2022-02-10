@@ -4,4 +4,4 @@
 
 
 ## 会议完整日程
-<img src="images/日程.jpg" width="100px"/>
+<div align=center><img src="images/日程.jpg"  width=800 alt=会议日程></div>
