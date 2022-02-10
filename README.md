@@ -4,4 +4,4 @@
 
 
 ## 会议完整日程
-![image](images/日程.jpg)
+<img src="images/日程.jpg" width="100px"/>
